@@ -36,7 +36,7 @@ body {
     @apply mx-auto w-full max-w-6xl px-[6px];
   }
 
-  /* Home sections bleed to the viewport edge while their content keeps the same 16px mobile gutter. */
+  /* Home sections bleed to the viewport edge  while their content keeps the same 16px mobile gutter. */
   .home-wrapper {
     @apply mx-auto w-full max-w-6xl px-0;
   }
